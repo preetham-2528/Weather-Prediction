@@ -3,7 +3,7 @@
 **Objective** 
 To predict a specific weather condition, primarily daily temperature, for a region using historical weather data.
 
-**Dataset **
+**Dataset**
 The project utilized the Kaggle Weather Dataset, which contains 96,453 instances and 12 features, including Temperature (C), Humidity, Wind Speed (km/h), and Precip Type.
 
 
